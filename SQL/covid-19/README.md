@@ -123,14 +123,20 @@ FROM popVSvac;
 
 📊 Possible Visualizations
 **Global cases and deaths trend over time
+
 **Infection rates by continent/country
+
 **Vaccination progress vs population
+
 **Mortality percentage comparisons
 
 🚀 Future Improvements
 **Automate data loading with Python or Airflow
+
 **Create dashboards in Tableau/Power BI
+
 **Use advanced SQL techniques (stored procedures, triggers)
+
 **Integrate with APIs for live updates
 
 🙌 Acknowledgements
