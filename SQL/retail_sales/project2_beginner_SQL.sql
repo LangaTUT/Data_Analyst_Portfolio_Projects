@@ -1,5 +1,5 @@
 -- SQL Retail Sales Analysis - P1
-CREATE DATABASE sql_project_p2;
+CREATE DATABASE PortfolioProject;
 
 
 -- Create TABLE
@@ -202,5 +202,6 @@ from retail_sales
 select shift, count(*) as total_orders
 from hourly_greetings
 group by shift;
+
 
 -- end of project
