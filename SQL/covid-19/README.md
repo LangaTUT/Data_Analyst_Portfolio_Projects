@@ -122,22 +122,22 @@ FROM popVSvac;
 3.Run the SQL script (Project1_covid.sql) in PostgreSQL or your preferred SQL environment.
 
 📊 Possible Visualizations
-**Global cases and deaths trend over time
+- **Global cases and deaths trend over time**
 
-**Infection rates by continent/country
+- **Infection rates by continent/country**
 
-**Vaccination progress vs population
+- **Vaccination progress vs population**
 
-**Mortality percentage comparisons
+- **Mortality percentage comparisons**
 
 🚀 Future Improvements
-**Automate data loading with Python or Airflow
+- **Automate data loading with Python or Airflow**
 
-**Create dashboards in Tableau/Power BI
+- **Create dashboards in Tableau/Power BI**
 
-**Use advanced SQL techniques (stored procedures, triggers)
+- **Use advanced SQL techniques (stored procedures, triggers)**
 
-**Integrate with APIs for live updates
+- **Integrate with APIs for live updates**
 
 🙌 Acknowledgements
 Dataset sourced from Our World in Data.
